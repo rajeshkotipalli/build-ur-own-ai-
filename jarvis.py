@@ -20,7 +20,7 @@ atexit.register(engine.stop)
 IDLE_TIMEOUT = 15  # seconds
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyAUtYcGmx9-dg1QGhOc_mHJ7PiTBPbPT60")
+genai.configure(api_key="give chat gpt or gemini ai or any api key so that it can answer for ur questions or gather information ")
 
 def set_male_voice():
     voices = engine.getProperty('voices')
@@ -223,3 +223,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
