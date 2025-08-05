@@ -85,4 +85,8 @@ File Structure
 `README.md`: This file.
 License
 
-This project is open-source.
+This project is open-source.**
+
+output**
+
+<img width="1437" height="525" alt="Image" src="https://github.com/user-attachments/assets/59690326-7de7-4102-b163-f188b3d265f1" />
