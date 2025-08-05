@@ -65,9 +65,9 @@ def listen():
 
 def open_app(command):
     apps = {
-        "notepad": "C:\\Windows\\System32\\notepad.exe",
+        "notepad": "add ur exe file location",
         "chrome": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
-        "whatsapp": "C:\\Program Files\\WindowsApps\\5319275A.WhatsAppDesktop_2.2412.2.0_x64__cv1g1gvanyjgm\\app\\WhatsApp.exe",
+        "whatsapp": "add ur exe file location",
         "powerpoint": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\PowerPoint.lnk",
         "excel": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\excel.lnk",
         "edge": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Edge.lnk",
@@ -221,4 +221,5 @@ def main():
             search_google(command)
 
 if __name__ == "__main__":
+
     main()
