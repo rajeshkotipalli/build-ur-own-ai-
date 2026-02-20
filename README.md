@@ -2,13 +2,13 @@ Name : rajesh k
 
 manavrachna international institue of research and studies 
 
-1/24/set/baiot/013
+1/24/SET/BAIOT/013
 
 # build-ur-own-ai-
-i have done a small project in which the laptop operates by our voice commands ,which gives responses to questions that u asked , and can open ur applications like ms word ,excel,power point , any applications just by asking in words and search or type required information in it , this was done with python programming language which uses one of the coolest libraies which process natural language processing 
+i have done a small project in which the laptop operates by our voice commands ,which gives responses to questions that u asked , and can open ur applications like ms word ,excel,power point , any applications just by asking in words OR BY  searching to get   required information in it , this was done with python programming language which uses one of the coolest libraies which process natural language processing 
 
 
-arvis is a Python-based desktop assistant that can perform various tasks using voice commands. It leverages several libraries to interact with the user, control applications, and search the web.
+Jarvis is a Python-based desktop assistant that can perform various tasks using voice commands. It leverages several libraries to interact with the user, control applications, and search the web.
 
 Features
 
